@@ -21,4 +21,4 @@ Projeto final do curso online Eu Progr{amo} - Front End #2
 <br>
 <h2>📊 Status</h2>
 <p>Projeto em desenvolvimento</p>
-<p>Última atualização em 7 de abril de 2023</p>
+<p>Última atualização em 8 de abril de 2023</p>
